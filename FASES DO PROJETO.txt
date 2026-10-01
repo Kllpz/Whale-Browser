@@ -1,0 +1,23 @@
+FASE 1
+Git + GitHub
+        ↓
+FASE 2
+estrutura do Firefox
+        ↓
+FASE 3
+build do Firefox
+        ↓
+FASE 4
+primeira modificação
+        ↓
+FASE 5
+configurações de privacidade
+        ↓
+FASE 6
+interface / identidade Whale
+        ↓
+FASE 7
+recursos próprios
+        ↓
+FASE 8
+distribuição
